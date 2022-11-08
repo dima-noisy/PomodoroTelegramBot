@@ -12,7 +12,7 @@ import telegram.commands.HelpCommand;
 import java.util.concurrent.TimeUnit;
 
 public class MyTelegramBot extends TelegramLongPollingCommandBot {
-    public static final String BOT_TOKEN = "5709787739:AAFnW5MeobyAZs536cM502R663HifBkEXTU";
+    public static final String BOT_TOKEN = "*";
     public static final String BOT_USERNAME = "pomodoroNetologyBot";
     public static final int WORK = 25;
     public static final int BREAK = 5;
